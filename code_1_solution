@@ -1,0 +1,11 @@
+Start
+End
+First next-tick callback executed
+Third next-tick callback executed
+First promise was resolved
+Third promise was resolved
+Second next-tick callback executed
+Second promise was resolved
+Immediate callback executed
+Timeout callback executed
+Process exited with code 0
